@@ -137,3 +137,7 @@ nav a {
 .nav-pills .nav-link.active {
   color: #fff;                 /* white text for contrast */
 }
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    background-color: #e0f0ff;
+}
