@@ -135,6 +135,5 @@ nav a {
 }
 
 .nav-pills .nav-link.active {
-  background-color: #0056b3;   /* solid blue for active */
   color: #fff;                 /* white text for contrast */
 }
